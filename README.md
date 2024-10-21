@@ -26,18 +26,18 @@ A fully responsive restaurant website built using **HTML**, **CSS**, and **JavaS
 ## How to Run the Project
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/restaurant-website.git
+   git clone https://github.com/madskull0101/Restaurant-website.git
    ```
 2. Navigate to the project folder:
    ```bash
-   cd restaurant-website
+   cd Restaurant-website
    ```
-3. Open the `index.html` file in your preferred web browser:
-   - On Windows: Right-click `index.html` and open with your browser.
+3. Open the `RESTAURANT.html` file in your preferred web browser:
+   - On Windows: Right-click `RESTAURANT.html` and open with your browser.
    - On macOS/Linux: Use the command line:
      ```bash
-     open index.html  # macOS
-     xdg-open index.html  # Linux
+     open RESTAURANT.html  # macOS
+     xdg-open RESTAURANT.html  # Linux
      ```
 
 ## Screenshots
