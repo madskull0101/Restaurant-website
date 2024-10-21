@@ -41,12 +41,11 @@ A fully responsive restaurant website built using **HTML**, **CSS**, and **JavaS
      ```
 
 ## Screenshots
-![Restaurant Home Page](![Screenshot 2024-10-21 195716](https://github.com/user-attachments/assets/1717aa32-94b2-4e69-a435-139c323cbdb2)
-)
-*Caption: Home page of the restaurant website.*
+![Restaurant Home Page](https://github.com/user-attachments/assets/1717aa32-94b2-4e69-a435-139c323cbdb2)
+* Home page of the restaurant website.*
 
-![Menu Section](screenshots/menu.png)
-*Caption: Restaurant menu section.*
+![Menu Section](https://github.com/user-attachments/assets/e4a29fc2-e2ce-41b6-b1af-a0390b2b159e)
+* Restaurant menu section.*
 
 ## Future Enhancements
 - **Online Ordering**: Add functionality for customers to place orders online.
