@@ -23,6 +23,10 @@ A fully responsive restaurant website built using **HTML**, **CSS**, and **JavaS
   - Scroll animations and smooth transitions.
   - Validating form inputs and dynamic content updates.
 
+## Demo
+You can view a live demo of the e-commerce website [here](http://127.0.0.1:5500/RESTAURANT.html).
+
+
 ## How to Run the Project
 1. Clone the repository to your local machine:
    ```bash
@@ -71,7 +75,8 @@ Contributions are welcome! If you'd like to improve this project:
 
 ## License
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
-
----
-
 Feel free to customize this template to match your project details! It covers key sections like features, technologies, instructions, and contribution guidelines, making it suitable for a GitHub repository.
+## Contact
+
+If you have any questions or suggestions, feel free to contact me at [youremail@example.com](jhaa78144@gmail.com).
+
