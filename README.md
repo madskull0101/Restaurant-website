@@ -75,8 +75,9 @@ Contributions are welcome! If you'd like to improve this project:
 
 ## License
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
-Feel free to customize this template to match your project details! It covers key sections like features, technologies, instructions, and contribution guidelines, making it suitable for a GitHub repository.
+
 ## Contact
 
 If you have any questions or suggestions, feel free to contact me at [youremail@example.com](jhaa78144@gmail.com).
 
+Feel free to customize this template to match your project details! It covers key sections like features, technologies, instructions, and contribution guidelines, making it suitable for a GitHub repository.
